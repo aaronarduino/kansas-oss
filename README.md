@@ -8,6 +8,7 @@ Try to keep projects in alphabetical order, please.
 #### *If you see a project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
 ### Contents
+* [GoQueue](https://github.com/aaronarduino/goqueue) - Queue data structure in Golang. For integers only.
 * [Lake Afton Website](https://github.com/openwichita/lake-afton-website) - Website for the Lake Afton Public Observatory.
 
 ## Reporting issues
