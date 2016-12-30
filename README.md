@@ -1,18 +1,17 @@
 # Kansas Open Source Software List
 This is a list of open source software and libraries started in Kansas
 
-### Contributing
 **To add, remove, or change things on the list:** Submit a pull request.
 
 Try to keep projects in alphabetical order, please.
 
-# Projects
+## Projects
 #### *If you see a project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-## Libraries (by programming language)
 * [boltbrowser](https://github.com/br0xen/boltbrowser) - A CLI Browser for BoltDB Files.
 * [Lake Afton Website](https://github.com/openwichita/lake-afton-website) - Website for the Lake Afton Public Observatory.
 
+## Libraries (by programming language)
 ### - Go-lang
 * [GoQueue](https://github.com/aaronarduino/goqueue) - Queue data structure in Golang. For integers only.
 
